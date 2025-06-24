@@ -2,7 +2,7 @@
 - 👀 I’m interested in sleeping
 - 🌱 I’m currently learning CS
 - 📫 How to reach me ...
-- 😄 Pronouns: sigma
+- 😄 Pronouns: mazuong2k4
 - ⚡ Fun fact: 
 
 <!---
