@@ -48,12 +48,6 @@
 <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" height="50"/>
 
 
-<strong>Flask</strong>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/>
-
-
 <strong>Bash</strong>
 </td>
 </tr>
@@ -90,6 +84,7 @@
 </tr>
 </table>
 </div>
+
 ### GenAI & LLM Tools
 <div align="center">
 <table>
@@ -121,6 +116,7 @@
 </tr>
 </table>
 </div>
+
 ### MLOps & Monitoring
 <div align="center">
 <table>
@@ -152,6 +148,7 @@
 </tr>
 </table>
 </div>
+
 ### Databases & Tools
 <div align="center">
 <table>
