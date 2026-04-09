@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently a **Senior at UIT (University of Information Technology)**
 - 📝 I focus on building end-to-end AI solutions, from **RAG pipelines** to **Computer Vision**
-- 😄 I'm on track to graduate from **UIT** in 2026 with a degree in Computer Science and a passion for transforming complex data into actionable insights
+- 😄 I'm on track to graduate from **UIT** in 2026 with a degree in Computer Science 
 - 🌱 I work with technologies such as **PyTorch, FastAPI, LangChain, Docker, and AWS**
 - 🌱 I'm curious about **LLMOps, Computer Vision**, and how **Natural Compounds** can be analyzed through data
 - 📫 How to reach me: **mrnguyenkhanh111@gmail.com**
