@@ -2,10 +2,6 @@
 <h3 align="center">An unemployed final-year student at UIT &#127470;&#127475;</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Engineer1999&color=0e75b6&style=flat" alt="Profile views">
-</div>
-
-<div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5uMWdtbnM5dXN5ZzYxejkxYWU4eDV2ZmsycjFqcGJ5OHBiNWlsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif" width="600" alt="GIF">
 </div>
 
