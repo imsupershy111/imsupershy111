@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/bhargav-p-patel" target="blank">mazuong2k4</a></h1>
-<h3 align="center">An unemployed final-year student at UIT&#127470;&#127475;</h3>
+<h3 align="center">An unemployed final-year student at UIT &#127470;&#127475;</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Engineer1999&color=0e75b6&style=flat" alt="Profile views">
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif" width="600" alt="GIF">
+  <img src="[https://media.giphy.com/media/3ogwFGEHrVxusDbDjO/giphy.gif](https://giphy.com/gifs/hello-hi-wave-xT9IgG50Fb7Mi0prBC)" width="600" alt="GIF">
 </div>
 
 ## 🚀 About Me
