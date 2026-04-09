@@ -20,9 +20,9 @@
 - 📄 Know about my experiences: <a href="https://github.com/Engineer1999/Engineer1999/blob/main/Resume/Bhargav_Patel_Software_Engineer_Resume.pdf" target="blank">Resume</a>
 ---
 
-### 🛠 Tech Stack & Tools
+## 🛠 Tech Stack & Tools
 
-* **Languages & Frameworks:** 
+### Languages & Libraries 
 <div align="center">
 <table>
 <tr>
@@ -59,10 +59,130 @@
 </tr>
 </table>
 </div>
-* **AI & Data:** PyTorch, Transformers (GGUF/Local LLMs), FAISS, Computer Vision, LightGBM/XGBoost
-* **Monitoring & Logging:** Grafana, Promtail, Loki, Telegram Bot API
-* **Infrastructure:** Docker, Linux (Ubuntu), Google Colab, Git
-* **Hardware Knowledge:** NVIDIA GPU Optimization (GTX 1650/Tesla T4)
+### AI/ML & Data Science
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/>
+
+
+<strong>PyTorch</strong>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" width="50" height="50"/>
+
+
+<strong>Scikit-learn</strong>
+</td>
+<td align="center">
+<img src="https://cdn.worldvectorlogo.com/logos/pandas-1.svg" alt="Pandas" width="50" height="50"/>
+
+
+<strong>Pandas</strong>
+</td>
+<td align="center">
+<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/>
+
+
+<strong>NumPy</strong>
+</td>
+</tr>
+</table>
+</div>
+### GenAI & LLM Tools
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/ajaypalsingh1/ajaypalsingh1/main/assets/langchain.png" alt="LangChain" width="50" height="50"/>
+
+
+<strong>LangChain</strong>
+</td>
+<td align="center">
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="50" height="50"/>
+
+
+<strong>Hugging Face</strong>
+</td>
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Gemini" width="50" height="50"/>
+
+
+<strong>Gemini</strong>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/pinecone-io/logo/main/pinecone-logo.png" alt="VectorDB" width="50" height="50"/>
+
+
+<strong>FAISS</strong>
+</td>
+</tr>
+</table>
+</div>
+### MLOps & Monitoring
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50"/>
+
+
+<strong>Docker</strong>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50"/>
+
+
+<strong>AWS</strong>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="50" height="50"/>
+
+
+<strong>Grafana</strong>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" alt="Loki" width="50" height="50"/>
+
+
+<strong>Loki/Promtail</strong>
+</td>
+</tr>
+</table>
+</div>
+### Databases & Tools
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50"/>
+
+
+<strong>MySQL</strong>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50"/>
+
+
+<strong>PostgreSQL</strong>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+
+
+<strong>Git</strong>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" width="50" height="50"/>
+
+
+<strong>LaTeX</strong>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
