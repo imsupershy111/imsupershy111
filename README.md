@@ -13,7 +13,7 @@
 - 🌱 I work with technologies such as **PyTorch, FastAPI, LangChain, Docker, and AWS**
 - 🌱 I'm curious about **LLM, Computer Vision, MLOps**, and how **Natural Compounds** can be analyzed through data
 - 📫 How to reach me: **mrnguyenkhanh111@gmail.com**
-- 📄 Know about my experiences: <a href="https://github.com/Engineer1999/Engineer1999/blob/main/Resume/Bhargav_Patel_Software_Engineer_Resume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences: <a href="https://github.com/imsupershy111/imsupershy111/blob/main/Nguyen%20Khanh_CV.pdf" target="blank">Resume</a>
 ---
 
 ## 🛠 Tech Stack & Tools
