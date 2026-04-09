@@ -22,7 +22,43 @@
 
 ### 🛠 Tech Stack & Tools
 
-* **Languages & Frameworks:** Python, C++, SQL, FastAPI, LangChain
+* **Languages & Frameworks:** 
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
+
+
+<strong>Python</strong>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50"/>
+
+
+<strong>C++</strong>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="50" height="50"/>
+
+
+<strong>FastAPI</strong>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" height="50"/>
+
+
+<strong>Flask</strong>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/>
+
+
+<strong>Bash</strong>
+</td>
+</tr>
+</table>
+</div>
 * **AI & Data:** PyTorch, Transformers (GGUF/Local LLMs), FAISS, Computer Vision, LightGBM/XGBoost
 * **Monitoring & Logging:** Grafana, Promtail, Loki, Telegram Bot API
 * **Infrastructure:** Docker, Linux (Ubuntu), Google Colab, Git
