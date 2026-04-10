@@ -41,7 +41,7 @@
 <strong>FastAPI</strong>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=bash" alt="Flask" width="50" height="50"/>
 
 
 <strong>Bash</strong>
