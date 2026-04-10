@@ -105,7 +105,7 @@
 <strong>Gemini</strong>
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/pinecone-io/logo/main/pinecone-logo.png" alt="VectorDB" width="50" height="50"/>
+<img src="https://github.com/imsupershy111/imsupershy111/blob/0e2a50941dc8034398c90a7a6a5630d638ff026f/assets/meta-color.svg" alt="VectorDB" width="50" height="50"/>
 
 
 <strong>FAISS</strong>
