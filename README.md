@@ -87,7 +87,7 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://raw.githubusercontent.com/ajaypalsingh1/ajaypalsingh1/main/assets/langchain.png" alt="LangChain" width="50" height="50"/>
+<img src="https://github.com/imsupershy111/imsupershy111/blob/a5a9ccee30f4971ded7c32b043a778b0437edbcb/assets/langchain-color.svg" alt="LangChain" width="50" height="50"/>
 
 
 <strong>LangChain</strong>
