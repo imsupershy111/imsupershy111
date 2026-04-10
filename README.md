@@ -67,7 +67,7 @@
 <strong>Scikit-learn</strong>
 </td>
 <td align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/pandas-1.svg" alt="Pandas" width="50" height="50"/>
+<img src="https://github.com/imsupershy111/imsupershy111/blob/d2cddc9cc1a7a1c52b634d2d1facb62b8a5fd331/assets/Pandas.svg" alt="Pandas" width="50" height="50"/>
 
 
 <strong>Pandas</strong>
