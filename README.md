@@ -99,7 +99,7 @@
 <strong>Hugging Face</strong>
 </td>
 <td align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Gemini" width="50" height="50"/>
+<img src="https://github.com/imsupershy111/imsupershy111/blob/dee8f4c9f02d89a7873bcc19f11177ec74ff0bb1/assets/gemini-color.svg" alt="Gemini" width="50" height="50"/>
 
 
 <strong>Gemini</strong>
