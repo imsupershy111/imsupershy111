@@ -183,4 +183,4 @@
 ### 📫 Let's Connect
 
 - **Email:** mrnguyenkhanh111@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/khanh-nguyen-139a33372/
+- **LinkedIn:** https://www.linkedin.com/in/nguyenkhanh111/
