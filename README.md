@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/khanh-nguyen-139a33372/" target="blank">mazuong2k4</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/khanh-nguyen-139a33372/" target="blank">mrbiscuit</a></h1>
 <h3 align="center">An unemployed final-year student at UIT &#127483;&#127475;</h3>
 
 <div align="center">
